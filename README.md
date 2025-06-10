@@ -1,1 +1,1 @@
-# titanic-data-analysis
+# MATC Internship Training
